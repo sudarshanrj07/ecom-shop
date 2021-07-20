@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "205244200152",
+    "firebase_url": "https://bolt-2e4df.firebaseio.com",
+    "project_id": "bolt-2e4df",
+    "storage_bucket": "bolt-2e4df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205244200152:android:3af75c7ef39b1afd3113ad",
+        "android_client_info": {
+          "package_name": "com.example.bolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205244200152-4heeetjb3rkt8ic8atj6u1bn7ed8h5vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzzgcARz2Z7X45xzoBf1kTtJYAB53ClyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205244200152-4heeetjb3rkt8ic8atj6u1bn7ed8h5vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
